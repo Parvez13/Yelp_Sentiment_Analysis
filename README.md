@@ -11,6 +11,9 @@ To analyze Yelp review data using cloud-native architecture, perform sentiment a
 - AWS S3 (external staging for Snowflake)
 - SQL (business insights)
 
+## 📅 Dataset
+- Link to downlaod the dataset: https://business.yelp.com/data/resources/open-dataset/
+  
 ## 📁 Process Overview
 1. Downloaded and extracted `review.json` from the Yelp dataset.
 2. Split into 40 smaller JSON files using Python.
