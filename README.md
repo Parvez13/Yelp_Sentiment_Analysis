@@ -31,6 +31,3 @@ Classified reviews into Positive, Neutral, and Negative categories using Python�
 ## 📎 Folder Structure
 - `scripts/`: All Python scripts for splitting and sentiment analysis
 - `sql_queries/`: SQL scripts used in Snowflake
-
-
-## 🤝 Contributions Welcome
