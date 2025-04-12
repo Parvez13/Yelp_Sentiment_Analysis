@@ -2,6 +2,8 @@
 
 ## 📌 Objective
 To analyze Yelp review data using cloud-native architecture, perform sentiment analysis, and derive insights with SQL.
+![Project_workflow](https://github.com/user-attachments/assets/25dc0535-bd70-4572-9609-57081e72a2a3)
+
 
 ## 🔧 Tech Stack
 - Python (data processing, TextBlob for sentiment)
